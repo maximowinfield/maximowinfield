@@ -87,7 +87,7 @@ A full-stack reference application demonstrating modern frontend--backend integr
 
 -   Containerized deployment using Docker
 
-👉 **Live Demo:** <https://task-rewards-management-system-1.onrender.com/parent/kids>\
+👉 **Live Demo:** [[<https://task-rewards-management-system-1.onrender.com/parent/kids>\](https://task-rewards-management-system-1.onrender.com/)](https://task-rewards-management-system-1.onrender.com)
 👉 **Source Code:** <https://github.com/maximowinfield/task-rewards-management-system>
 
 * * * * *
