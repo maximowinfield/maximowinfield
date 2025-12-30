@@ -1,65 +1,165 @@
-# Hey, I'm Maximo 👋
+Hey, I'm Maximo 👋
+==================
 
-I'm a Computer Science student and Amazon associate working my way into a full-time Software Developer role. I like building practical apps that solve real problems — from finance tools to full-stack sample systems.
+I'm a **Computer Science senior** and **Amazon Learning Ambassador** working toward a full-time role as a **Software Developer**. I focus on building practical, end-to-end applications that mirror real production systems---clean APIs, secure authentication, and deployable frontends.
 
-- 🎓 B.S. Computer Science (in progress) – concentration in Software Development  
-- 💼 Currently: Amazon Operations (building discipline, leadership, and grit)  
-- 💻 Moving into: Full-stack / backend development (C#, .NET, TypeScript, React, Python)  
-- 🌎 Based in New Jersey  
+-   🎓 **B.S. in Computer Science** (Senior) -- Southern New Hampshire University
 
-## 🔧 Tech I Work With
+-   💼 **Amazon Operations / Learning Ambassador** (process discipline, leadership, execution)
 
-- **Languages:** JavaScript/TypeScript, C#, Python, Java, C++  
-- **Web:** React, Node.js, Express, HTML, CSS  
-- **Backend / APIs:** .NET 8 minimal APIs, REST, SQL/NoSQL  
-- **Tools:** Git, Docker, VS Code, GitHub, Postman  
+-   💻 **Career focus:** Full-stack & backend development
 
-## 🚀 Featured Projects
+-   🌎 **Location:** New Jersey
 
-### 1. Microsoft Full-Stack Sample  
-Full-stack app built with **React + TypeScript** on the frontend and **.NET 8 minimal APIs** on the backend.
+* * * * *
 
-- REST API with clean separation of concerns  
-- Dockerized backend and frontend with `docker-compose`  
-- Includes unit tests and a structured solution layout  
+🔧 Technical Skills
+-------------------
 
-👉 [View the repo](https://github.com/maximowinfield/Microsoft-Fullstack-Sample)
+**Languages**
 
----
+-   TypeScript / JavaScript
 
-### 2. Finance Planner  
-A simple web-based personal finance tool to track income, expenses, and savings goals.
+-   C#
 
-- Pure **HTML/CSS/JavaScript**  
-- Front-end driven UI, ready to deploy on GitHub Pages  
-- Built to practice DOM manipulation, state, and user input handling  
+-   Java
 
-👉 [View the repo](https://github.com/maximowinfield/finance-planner)
+-   Python
 
----
+-   C++
 
-### 3. Tic-Tac-Toe AI  
-Python-based tic-tac-toe AI (expandable to minimax / unbeatable mode) to practice algorithms and game logic.
+**Frontend**
 
-👉 [View the repo](https://github.com/maximowinfield/tic_tac_toe_ai)
+-   React
 
----
+-   Vite
 
-### 4. CS & Algorithms Projects  
-Coursework repositories showing data structures, runtime analysis, and system design work.
+-   HTML
 
-- C++ data structure implementations  
-- Analysis of vector / hash table / BST performance  
-- Written reflections explaining design decisions  
+-   CSS
 
-👉 [CS300 Projects](https://github.com/maximowinfield/CS300-Projects)  
-👉 [SNHU Projects 2025](https://github.com/maximowinfield/SNHUProjects2025)
+**Backend & APIs**
 
----
+-   .NET 8 Minimal APIs
 
-## 📫 Get in Touch
+-   RESTful API design
 
-- 💼 LinkedIn: *(add your link here)*  
-- 🧾 Resume: *(add link to a PDF in a repo or Google Drive when ready)*  
+-   JWT authentication
 
-Always open to feedback, mentorship, and opportunities in software development.
+-   Role-based access control
+
+**Databases**
+
+-   SQLite
+
+-   SQL fundamentals
+
+**Cloud & Tools**
+
+-   Docker
+
+-   Git & GitHub
+
+-   Render
+
+-   Postman
+
+-   AWS (S3 -- secure file uploads)
+
+* * * * *
+
+🚀 Featured Projects
+--------------------
+
+### **Microsoft Full-Stack Sample**
+
+A full-stack reference application demonstrating modern frontend-backend integration using Microsoft's ecosystem.
+
+**Tech:** React, TypeScript, .NET 8 Minimal API, EF Core, SQLite, Docker
+
+-   API-first design with clear separation of concerns
+
+-   JWT-based authentication and protected routes
+
+-   Persistent data storage with Entity Framework Core
+
+-   Containerized deployment using Docker
+
+👉 **Repository:** <https://github.com/maximowinfield/Microsoft-Fullstack-Sample>
+
+* * * * *
+
+### **Task & Rewards Management System** *(Live Demo Available)*
+
+A role-based web application designed to manage tasks and rewards, inspired by real household and workflow systems.
+
+**Tech:** React, TypeScript, .NET 8, EF Core, SQLite, Docker
+
+-   Parent and child role separation with scoped JWT sessions
+
+-   Secure backend APIs with protected frontend routing
+
+-   Persistent storage and containerized deployment
+
+👉 **Live Demo:** <https://task-rewards-management-system-1.onrender.com/parent/kids>\
+👉 **Source Code:** <https://github.com/maximowinfield/task-rewards-management-system>
+
+* * * * *
+
+### **Job Application Tracker** *(In Progress)*
+
+An API-first system for tracking job applications across their lifecycle.
+
+**Planned / Implemented Features**
+
+-   User registration and hashed passwords
+
+-   JWT authentication
+
+-   Search and status filtering
+
+-   Secure document uploads using Amazon S3
+
+* * * * *
+
+### **Finance Planner**
+
+A lightweight personal finance web app built to practice frontend fundamentals.
+
+**Tech:** HTML, CSS, JavaScript
+
+-   Tracks income, expenses, and savings goals
+
+-   Focus on DOM manipulation and client-side state
+
+-   Deployed via GitHub Pages
+
+👉 **Repository:** <https://github.com/maximowinfield/finance-planner>
+
+* * * * *
+
+### **Algorithms & Coursework Projects**
+
+Academic repositories showcasing core computer science fundamentals.
+
+-   Data structures (vectors, hash tables, binary search trees)
+
+-   Runtime and performance analysis
+
+-   Written design reflections and tradeoff evaluation
+
+👉 **CS300 Projects:** <https://github.com/maximowinfield/CS300-Projects>\
+👉 **SNHU Projects:** <https://github.com/maximowinfield/SNHUProjects2025>
+
+* * * * *
+
+📫 Get in Touch
+---------------
+
+-   💼 **LinkedIn:** <https://linkedin.com/in/mow851095611566412>
+
+-   🧾 **Resume:** *(Add PDF link here when ready)*
+
+-   🧑‍💻 **GitHub:** <https://github.com/maximowinfield>
+
+I'm always open to feedback, mentorship, and opportunities where I can grow as a developer and contribute to real-world systems.
