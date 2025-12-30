@@ -128,16 +128,30 @@ A lightweight personal finance web app built to practice frontend fundamentals.
 
 ### **Algorithms & Coursework Projects**
 
-Academic repositories showcasing core computer science fundamentals.
+Academic repositories showcasing applied computer science fundamentals across algorithms, systems design, secure software development, and software architecture.
 
--   Data structures (vectors, hash tables, binary search trees)
+-   Data structures and algorithm analysis (vectors, hash tables, binary search trees)
 
--   Runtime and performance analysis
+-   Secure software development practices and vulnerability analysis
 
--   Written design reflections and tradeoff evaluation
+-   Systems analysis and design using real-world case studies
 
-👉 **CS300 Projects:** <https://github.com/maximowinfield/CS300-Projects>\
-👉 **SNHU Projects:** <https://github.com/maximowinfield/SNHUProjects2025>
+-   Object-oriented programming and software architecture
+
+👉 **CS300 -- Data Structures & Algorithms:**\
+<https://github.com/maximowinfield/CS300-Projects>
+
+👉 **CS255 -- System Analysis & Design:**\
+https://github.com/maximowinfield/CS255-System-Analysis-and-Design
+
+👉 **CS305 -- Software Security:**\
+https://github.com/maximowinfield/CS305-Software-Security
+
+👉 **CS230 -- The Gaming Room (Software Design):**\
+https://github.com/maximowinfield/CS230-TheGamingRoom
+
+👉 **SNHU Coursework Portfolio (2025):**\
+<https://github.com/maximowinfield/SNHUProjects2025>
 
 * * * * *
 
