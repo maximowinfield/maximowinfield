@@ -71,35 +71,21 @@ I'm a **Computer Science senior** and **Amazon Learning Ambassador** working tow
 🚀 Featured Projects
 --------------------
 
-### **Microsoft Full-Stack Sample**
+### **Task & Rewards Management System** *(Live Demo Available)*
 
-A full-stack reference application demonstrating modern frontend-backend integration using Microsoft's ecosystem.
+A full-stack reference application demonstrating modern frontend--backend integration using Microsoft's ecosystem, evolved into a practical role-based task and rewards platform.
 
-**Tech:** React, TypeScript, .NET 8 Minimal API, EF Core, SQLite, Docker
+**Tech:** React, TypeScript, .NET 8 Minimal API, Entity Framework Core, SQLite, Docker
 
 -   API-first design with clear separation of concerns
 
--   JWT-based authentication and protected routes
+-   JWT-based authentication with role-based access control (parent / child)
 
--   Persistent data storage with Entity Framework Core
+-   Protected frontend routes backed by secure backend endpoints
+
+-   Persistent data storage using Entity Framework Core
 
 -   Containerized deployment using Docker
-
-👉 **Repository:** <https://github.com/maximowinfield/Microsoft-Fullstack-Sample>
-
-* * * * *
-
-### **Task & Rewards Management System** *(Live Demo Available)*
-
-A role-based web application designed to manage tasks and rewards, inspired by real household and workflow systems.
-
-**Tech:** React, TypeScript, .NET 8, EF Core, SQLite, Docker
-
--   Parent and child role separation with scoped JWT sessions
-
--   Secure backend APIs with protected frontend routing
-
--   Persistent storage and containerized deployment
 
 👉 **Live Demo:** <https://task-rewards-management-system-1.onrender.com/parent/kids>\
 👉 **Source Code:** <https://github.com/maximowinfield/task-rewards-management-system>
@@ -112,7 +98,7 @@ An API-first system for tracking job applications across their lifecycle.
 
 **Planned / Implemented Features**
 
--   User registration and hashed passwords
+-   User registration with hashed passwords
 
 -   JWT authentication
 
