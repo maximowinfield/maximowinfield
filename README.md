@@ -38,6 +38,8 @@ I'm a **Computer Science senior** and **Amazon Learning Ambassador** working tow
 
 -   CSS
 
+-   Tailwind
+
 **Backend & APIs**
 
 -   .NET 8 Minimal APIs
