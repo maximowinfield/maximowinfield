@@ -111,7 +111,7 @@ An API-first system for tracking job applications across their lifecycle.
 
 👉 **Source Code:** <https://github.com/maximowinfield/JobTracker>
 
-👉 **Live Demo:** jobtracker-b0k3.onrender.com
+👉 **Live Demo:** [jobtracker-b0k3.onrender.com](https://jobtracker-b0k3.onrender.com/)
 
 * * * * *
 
