@@ -7,7 +7,7 @@ I'm a **Computer Science senior** and **Amazon Learning Ambassador** working tow
 
 -   💼 **Amazon Operations / Learning Ambassador** (process discipline, leadership, execution)
 
--   💻 **Career focus:** Full-stack & backend development
+-   💻 **Career focus:** Full-stack development
 
 -   🌎 **Location:** New Jersey
 
