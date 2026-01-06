@@ -13,60 +13,44 @@ I'm a **Computer Science senior** and **Amazon Learning Ambassador** working tow
 
 * * * * *
 
-🔧 Technical Skills
--------------------
+## 🔧 Technical Skills
 
-**Languages**
+### Languages
+- TypeScript / JavaScript
+- Java
+- Python
+- C#
+- Kotlin
+- C++
+- SQL
 
--   TypeScript / JavaScript
+### Frontend
+- React
+- Vite
+- HTML
+- CSS
+- Tailwind CSS
 
--   C#
+### Backend & APIs
+- .NET 8 Minimal APIs
+- RESTful API design
+- JWT authentication
+- Role-based access control (RBAC)
+- Node.js
 
--   Java
+### Databases
+- SQLite
+- MySql
+- PostgreSQL
+- Relational database fundamentals
 
--   Python
+### Cloud & Tools
+- Docker
+- Git & GitHub
+- Render
+- Postman
+- AWS S3 (secure file uploads with presigned URLs)
 
--   C++
-
-**Frontend**
-
--   React
-
--   Vite
-
--   HTML
-
--   CSS
-
--   Tailwind
-
-**Backend & APIs**
-
--   .NET 8 Minimal APIs
-
--   RESTful API design
-
--   JWT authentication
-
--   Role-based access control
-
-**Databases**
-
--   SQLite
-
--   SQL fundamentals
-
-**Cloud & Tools**
-
--   Docker
-
--   Git & GitHub
-
--   Render
-
--   Postman
-
--   AWS (S3 -- secure file uploads)
 
 * * * * *
 
