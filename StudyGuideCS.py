@@ -366,3 +366,75 @@ def all_unique_letters(s):
             seen.add(normalized)
 
         return True
+    
+# =============================
+# Hash Maps 
+# =============================
+
+# =========================================================================================================
+# Question 1: Write a function that returns True if an array contains duplicate values, otherwise False.
+# =========================================================================================================
+
+def contains_duplicate(nums):
+    # initializing a hash map (dictionary)
+    seen = set()
+    #for every number in the nums list
+    for num in nums:
+        # if num has been seen already
+        if num in seen:
+            # return true
+            return True
+    # after the loop, add the number to the seen hashmap
+    seen.add(num)
+    # otherwise return false
+    return False
+
+# example
+print(contains_duplicate([1, 2, 3, 4]))    # False
+print(contains_duplicate([1, 2, 3, 1]))    # True
+
+# Time Complexity: O(n) because we loop through the list once, each lookup in a set is O(1) on average
+# Space Complexity: O(n) because the set stores seen values, in the worst case, all values are unique
+
+
+# ==============
+# Question 2: Given a list of integers nums and an integer target, return the indices of the two numbers such that they add up to target.
+# =============
+
+def two_sum(nums, target):
+    seen = {}  # value -> index
+
+    # for every index, and value do something
+    for i, num in enumerate(nums):
+        # complement is the number required to add up to target
+        complement = target - num
+
+        # if we've seen the complement before, we found the pair
+        # is the complement in seen already?
+        if complement in seen:
+            # if yes then return the complement and index
+            return [seen[complement], i]
+
+        # otherwise store current number and its index
+        seen[num] = i
+
+#Time Complexity: O(n) One pass through the list
+#Space Complexity: O(n) Dictionary stores seen values
+
+def two_sum(nums, target):
+    seen = {}
+
+    for i, num in enumerate(nums):
+        complement = target - num
+
+        if complement in seen:
+            return [seen[complement], i]
+        seen[num] = i
+
+# Edge Case: Duplicate values are handled correctly
+# Edge case: Same number cannot be used twice because we check first and then store
+# Edge Case: Negative numbers, complements still calculate correctly, Hash maps don't care about sign
+# Edge Case: Zero as a value works because it works like any other number
+# Edge Case: Multiple Valid pairs, the solution returns the FIRST valid pair
+# Edge Case: No solution exists, the function will return none
+# Edge Case: Large Input size, the hash map solution scales linearly.
