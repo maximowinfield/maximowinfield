@@ -215,6 +215,16 @@ def first_non_repeating_char(s):
 
     return None
 
+# time complexity: O(n) 
+# first loop counts characte occurences O(n)
+# second loop finds the character with count 1 O(n)
+# Combined O(n+n) = O(n)
+
+# space complexity: O(n)
+# The dictionary (hash map) stores character counts
+# in the worse case, every character is unique
+# Edge Case: An empty string will return None
+
 
 # =====================================================
 # QUESTION 11: Basic Palindrome Check
