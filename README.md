@@ -149,7 +149,7 @@ https://github.com/maximowinfield/CS230-TheGamingRoom
 
 -   💼 **LinkedIn:** <https://linkedin.com/in/mow851095611566412>
 
--   🧾 **Resume (PDF):** (https://github.com/maximowinfield/maximowinfield/blob/main/Maximo_Winfield_Resume29.pdf)
+-   🧾 **Resume (PDF):** https://github.com/maximowinfield/maximowinfield/blob/main/Maximo_Winfield_Resume31.pdf
 
 -   🧑‍💻 **GitHub:** <https://github.com/maximowinfield>
 
