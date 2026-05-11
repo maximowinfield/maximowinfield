@@ -1,3 +1,8 @@
+## Project Status
+
+This project was previously deployed using free-tier hosting services that are currently inactive. The source code, architecture, and implementation remain fully available in this repository for review.
+
+
 Hey, I'm Maximo 👋
 ==================
 
